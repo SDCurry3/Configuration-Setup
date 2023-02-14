@@ -17,3 +17,10 @@
 - local - your personal computer
 - commit - adds a tracking number and message to your version
 - diff - the difference between states of your local and Github repository
+
+### Notes About Branching
+
+- Branching protects your code from errors that caan cause your app to be down in production
+- Branching allows multiple people to work on code at the same time
+- Branching is a best practice for all developers on all projects
+- The main branch is the source of truth and should only ever have working code
