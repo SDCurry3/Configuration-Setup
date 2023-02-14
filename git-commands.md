@@ -15,7 +15,5 @@
 - git - version control software
 - Github - online platform for git, GUI for sharing code and collaboration
 - local - your personal computer
-- commit - adding a tracking number and message to your version
+- commit - adds a tracking number and message to your version
 - diff - the difference between states of your local and Github repository
-
-Bruh
