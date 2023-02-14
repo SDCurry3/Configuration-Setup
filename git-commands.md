@@ -17,3 +17,5 @@
 - local - your personal computer
 - commit - adding a tracking number and message to your version
 - diff - the difference between states of your local and Github repository
+
+Bruh
